@@ -2,28 +2,34 @@
 
 Digital-архитектор для роста бизнеса. Делаю инструменты и автоматизацию для малого бизнеса в России — от идеи до работающего продакшна, один.
 
-🌐 [tashev.ru](https://tashev.ru)
+🌐 **[tashev.ru](https://tashev.ru)**
 
 ---
 
 ### Проекты
 
-**[Ракета](https://github.com/tashev11/raketa)** — портал бесплатных инструментов для предпринимателей
-83 шаблона документов и налоговые калькуляторы 2026: УСН, патент, НПД, НДС, взносы ИП, возврат НДФЛ, проверка реквизитов. Всё считается и заполняется в браузере — данные не уходят на сервер. Статика без сборки и зависимостей.
-→ [tashev11.github.io/raketa](https://tashev11.github.io/raketa/)
+#### [Ракета](https://github.com/tashev11/raketa) — портал бесплатных инструментов для предпринимателей
 
-**Dzen-Poster** *(приватный)* — Telegram Mini App для автопостинга в Яндекс Дзен
-Контент-план, генерация текстов и обложек через AI, расписание публикаций. React 19 + Vite на фронте, Fastify + Telegraf + Firestore на бэке.
-→ [dzen.tashev.ru](https://dzen.tashev.ru)
+83 шаблона документов и налоговые калькуляторы 2026: УСН, патент, НПД, НДС, взносы ИП, возврат НДФЛ, проверка реквизитов. Всё считается и заполняется прямо в браузере — данные не уходят на сервер. Статика без сборки и зависимостей.
+
+→ **[tashev11.github.io/raketa](https://tashev11.github.io/raketa/)**
+
+#### Dzen-Poster — Telegram Mini App для автопостинга в Яндекс Дзен
+
+Контент-план, генерация текстов и обложек через AI, расписание публикаций. React 19 + Vite на фронте, Fastify + Telegraf + Firestore на бэке. Репозитории приватные.
+
+→ **[dzen.tashev.ru](https://dzen.tashev.ru)**
 
 ---
 
 ### Стек
 
-**Фронтенд** TypeScript · React · Vite · Tailwind · vanilla JS
-**Бэкенд** Node.js · Fastify · Python
-**Сервисы** Telegram Bot API · OpenAI · Firebase / Firestore
-**Инфраструктура** nginx · GitHub Pages
+| | |
+|---|---|
+| **Фронтенд** | TypeScript · React · Vite · Tailwind · vanilla JS |
+| **Бэкенд** | Node.js · Fastify · Python |
+| **Сервисы** | Telegram Bot API · OpenAI · Firebase / Firestore |
+| **Инфраструктура** | nginx · GitHub Pages |
 
 ---
 
