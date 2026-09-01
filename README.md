@@ -20,6 +20,12 @@ Digital-архитектор для роста бизнеса. Делаю инс
 
 → **[dzen.tashev.ru](https://dzen.tashev.ru)**
 
+#### TASH Coin — жетон в сети TON
+
+Собственный токен TASHEV (TASH): сайт проекта, Telegram-бот и заявка на добавление в реестр токенов Tonkeeper — [ton-assets](https://github.com/tashev11/ton-assets).
+
+→ **[coin.tashev.ru](https://coin.tashev.ru)**
+
 ---
 
 ### Стек
