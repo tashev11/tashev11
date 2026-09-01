@@ -12,7 +12,7 @@
 
 Статика без сборки и без единой зависимости, живёт на GitHub Pages.
 
-<a href="https://tashev11.github.io/raketa/"><img src="https://raw.githubusercontent.com/tashev11/tashev11/main/assets/raketa.png" alt="Ракета — портал инструментов для малого бизнеса" width="100%"></a>
+<a href="https://tashev11.github.io/raketa/"><img src="https://raw.githubusercontent.com/tashev11/tashev11/main/assets/raketa.png?v=2" alt="Ракета — портал инструментов для малого бизнеса" width="100%"></a>
 
 [**Открыть →**](https://tashev11.github.io/raketa/) &nbsp;·&nbsp; [Исходники](https://github.com/tashev11/raketa) &nbsp;·&nbsp; `vanilla JS` `CC BY-NC 4.0`
 
@@ -24,7 +24,7 @@
 
 React 19 и Vite на фронте, Fastify, Telegraf и Firestore на бэке. Исходники закрыты.
 
-<a href="https://dzen.tashev.ru"><img src="https://raw.githubusercontent.com/tashev11/tashev11/main/assets/dzen.png" alt="Дзен — AI-автопостинг и SEO-трафик" width="100%"></a>
+<a href="https://dzen.tashev.ru"><img src="https://raw.githubusercontent.com/tashev11/tashev11/main/assets/dzen.png?v=2" alt="Дзен — AI-автопостинг и SEO-трафик" width="100%"></a>
 
 [**Открыть →**](https://dzen.tashev.ru) &nbsp;·&nbsp; `TypeScript` `React` `Fastify` `OpenAI`
 
@@ -34,7 +34,7 @@ React 19 и Vite на фронте, Fastify, Telegraf и Firestore на бэке
 
 **Токен TASHEV в сети TON.** Покупка напрямую через смарт-контракт, реферальная программа, Telegram-мини-приложение и накопление токенов. Заявка на добавление в реестр токенов Tonkeeper лежит в форке [ton-assets](https://github.com/tashev11/ton-assets).
 
-<a href="https://coin.tashev.ru"><img src="https://raw.githubusercontent.com/tashev11/tashev11/main/assets/tash.png" alt="TASH.coin — токен на блокчейне TON" width="100%"></a>
+<a href="https://coin.tashev.ru"><img src="https://raw.githubusercontent.com/tashev11/tashev11/main/assets/tash.png?v=2" alt="TASH.coin — токен на блокчейне TON" width="100%"></a>
 
 [**Открыть →**](https://coin.tashev.ru) &nbsp;·&nbsp; [Реестр Tonkeeper](https://github.com/tashev11/ton-assets) &nbsp;·&nbsp; `TON` `смарт-контракт`
 
