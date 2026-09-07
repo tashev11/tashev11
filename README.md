@@ -14,9 +14,9 @@
 
 <a href="https://swapl.ru"><img src="https://raw.githubusercontent.com/tashev11/tashev11/main/assets/swapl.svg" alt="Swapl — работа за свайп" width="100%"></a>
 
-[**Открыть Swapl →**](https://swapl.ru) &nbsp;·&nbsp; [**Google Play →**](https://play.google.com/store/apps/details?id=swapl.ru) &nbsp;·&nbsp; `Next.js` `TypeScript` `Prisma` `Capacitor` `Android` `PWA`
+[**Открыть Swapl →**](https://swapl.ru) &nbsp;·&nbsp; [**Google Play →**](https://play.google.com/store/apps/details?id=swapl.ru) &nbsp;·&nbsp; [**GitHub-витрина →**](https://github.com/tashev11/swapl_) &nbsp;·&nbsp; `Next.js` `TypeScript` `Prisma` `Capacitor` `Android` `PWA`
 
-Исходный production-репозиторий закрыт.
+Production-исходники закрыты; публичный репозиторий используется как витрина продукта, roadmap и канал обратной связи.
 
 ---
 
