@@ -1,8 +1,22 @@
 <img src="https://raw.githubusercontent.com/tashev11/tashev11/main/assets/header.png" alt="Ринат Ташев — Digital-архитектор для роста бизнеса" width="100%">
 
-Делаю инструменты и автоматизацию для малого бизнеса в России — от идеи до работающего продакшна, один. Три продукта в бою: портал документов и налоговых калькуляторов, AI-автопостинг в Дзен и токен на TON.
+Делаю инструменты и автоматизацию для малого бизнеса и цифровые продукты — от идеи до работающего продакшна. Четыре продукта в бою: платформа поиска работы Swapl, портал инструментов для предпринимателей, AI-автопостинг в Дзен и токен на TON.
 
 **[tashev.ru](https://tashev.ru)**
+
+---
+
+## Swapl — работа за свайп
+
+**Платформа поиска работы и сотрудников через взаимный интерес.** Соискатели свайпают вакансии, работодатели — кандидатов; при взаимном интересе создаётся матч и открывается прямой чат. Есть профили, вакансии, отклики, матчи, сообщения, уведомления, кабинеты работодателя и соискателя.
+
+Продукт работает как веб-сервис и Android-приложение в Google Play. Мобильная версия построена на Capacitor и загружает production-интерфейс Swapl, поэтому веб и приложение развиваются как единый продукт.
+
+<a href="https://swapl.ru"><img src="https://raw.githubusercontent.com/tashev11/tashev11/main/assets/swapl.svg" alt="Swapl — работа за свайп" width="100%"></a>
+
+[**Открыть Swapl →**](https://swapl.ru) &nbsp;·&nbsp; [**Google Play →**](https://play.google.com/store/apps/details?id=swapl.ru) &nbsp;·&nbsp; `Next.js` `TypeScript` `Prisma` `Capacitor` `Android` `PWA`
+
+Исходный production-репозиторий закрыт.
 
 ---
 
@@ -44,10 +58,11 @@ React 19 и Vite на фронте, Fastify, Telegraf и Firestore на бэке
 
 | | |
 |---|---|
-| **Фронтенд** | TypeScript · React · Vite · Tailwind · vanilla JS |
-| **Бэкенд** | Node.js · Fastify · Python |
+| **Фронтенд** | TypeScript · React · Next.js · Vite · Tailwind · vanilla JS |
+| **Бэкенд** | Node.js · Fastify · Prisma · Python |
+| **Мобайл** | Capacitor · Android · PWA |
 | **Сервисы** | Telegram Bot API · OpenAI · Firebase / Firestore · TON |
-| **Инфраструктура** | nginx · GitHub Pages |
+| **Инфраструктура** | nginx · GitHub Pages · Google Play |
 
 ## Как я работаю
 
