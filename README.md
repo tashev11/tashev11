@@ -46,11 +46,11 @@ React 19 и Vite на фронте, Fastify, Telegraf и Firestore на бэке
 
 ## TASH.coin
 
-**Токен TASHEV в сети TON.** Покупка напрямую через смарт-контракт, реферальная программа, Telegram-мини-приложение и накопление токенов. Заявка на добавление в реестр токенов Tonkeeper лежит в форке [ton-assets](https://github.com/tashev11/ton-assets).
+**Токен TASHEV в сети TON.** Покупка напрямую через смарт-контракт, реферальная программа, Telegram-мини-приложение и накопление токенов. Готовится заявка на добавление в реестр токенов Tonkeeper.
 
 <a href="https://coin.tashev.ru"><img src="https://raw.githubusercontent.com/tashev11/tashev11/main/assets/tash.png?v=2" alt="TASH.coin — токен на блокчейне TON" width="100%"></a>
 
-[**Открыть →**](https://coin.tashev.ru) &nbsp;·&nbsp; [Реестр Tonkeeper](https://github.com/tashev11/ton-assets) &nbsp;·&nbsp; `TON` `смарт-контракт`
+[**Открыть →**](https://coin.tashev.ru) &nbsp;·&nbsp; [Смотреть в TON Explorer →](https://tonviewer.com/EQCW4dRx9_IRF_zN6A8-XFi8K8nSMNs_xO0GUDu4eAY1fE9p) &nbsp;·&nbsp; `TON` `смарт-контракт`
 
 ---
 
