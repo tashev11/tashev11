@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/tashev11/tashev11/main/assets/header.png" alt="Ринат Ташев — Digital-архитектор для роста бизнеса" width="100%">
 
-Делаю инструменты и автоматизацию для малого бизнеса и цифровые продукты — от идеи до работающего продакшна. Четыре продукта в бою: платформа поиска работы Swapl, портал инструментов для предпринимателей, AI-автопостинг в Дзен и токен на TON.
+Делаю инструменты и автоматизацию для малого бизнеса, цифровые продукты и open-source инструменты для AI-разработки — от идеи до работающего продакшна.
 
 **[tashev.ru](https://tashev.ru)**
 
@@ -19,6 +19,22 @@ relay resume
 [**GitHub →**](https://github.com/tashev11/tashev-relay) &nbsp;·&nbsp; [**v0.1.0 →**](https://github.com/tashev11/tashev-relay/releases/tag/v0.1.0) &nbsp;·&nbsp; `Node.js` `Git` `AI agents` `MIT` `zero dependencies`
 
 > **Git remembers your code. Relay remembers your work.**
+
+---
+
+## Tashev Proof — AI сказал «готово», Proof проверяет
+
+**Open-source proof-of-done для AI-разработки.** Proof превращает человеческую задачу в acceptance contract, запускает реальные доказательства — тесты, HTTP, файлы и ручную приёмку — и выдаёт итоговый статус **PROVEN / PARTIAL / FAILED** перед релизом.
+
+```bash
+proof init --task "Add password reset"
+proof run
+proof ship
+```
+
+[**GitHub →**](https://github.com/tashev11/tashev-proof) &nbsp;·&nbsp; [**v0.1.0 →**](https://github.com/tashev11/tashev-proof/releases/tag/v0.1.0) &nbsp;·&nbsp; `Node.js` `verification` `vibe-coding` `MIT` `zero dependencies`
+
+> **AI said done. Proof checks if it is.**
 
 ---
 
