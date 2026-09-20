@@ -22,6 +22,26 @@ relay resume
 
 ---
 
+## Tashev Crew — совместная работа без скрытых конфликтов
+
+**Open-source realtime coordination layer для людей и AI, работающих над одним Git-репозиторием.** Crew показывает, кто сейчас работает, над какой задачей, в какой ветке и какие файлы меняет локально — ещё до commit. Если Claude, Codex, Cursor или разработчики начинают трогать один и тот же файл, Crew предупреждает об этом заранее.
+
+<p align="center">
+  <a href="https://github.com/tashev11/tashev-crew"><img src="https://raw.githubusercontent.com/tashev11/tashev-crew/main/assets/hero.svg" alt="Tashev Crew" width="100%"></a>
+</p>
+
+```bash
+crew status
+crew start "Fix payment flow"
+crew done
+```
+
+[**GitHub →**](https://github.com/tashev11/tashev-crew) &nbsp;·&nbsp; `Node.js` `GitHub` `realtime` `AI agents` `MIT` `zero runtime dependencies`
+
+> **See who is working. See what they touch. Never collide.**
+
+---
+
 ## Tashev Proof — AI сказал «готово», Proof проверяет
 
 **Open-source proof-of-done для AI-разработки.** Proof превращает человеческую задачу в acceptance contract, запускает реальные доказательства — тесты, HTTP, файлы и ручную приёмку — и выдаёт итоговый статус **PROVEN / PARTIAL / FAILED** перед релизом.
