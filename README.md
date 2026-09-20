@@ -32,7 +32,7 @@ proof run
 proof ship
 ```
 
-[**GitHub →**](https://github.com/tashev11/tashev-proof) &nbsp;·&nbsp; [**v0.1.0 →**](https://github.com/tashev11/tashev-proof/releases/tag/v0.1.0) &nbsp;·&nbsp; `Node.js` `verification` `vibe-coding` `MIT` `zero dependencies`
+[**Сайт →**](https://tashev11.github.io/tashev-proof/) &nbsp;·&nbsp; [**GitHub →**](https://github.com/tashev11/tashev-proof) &nbsp;·&nbsp; [**v0.1.0 →**](https://github.com/tashev11/tashev-proof/releases/tag/v0.1.0) &nbsp;·&nbsp; `Node.js` `verification` `vibe-coding` `MIT` `zero dependencies`
 
 > **AI said done. Proof checks if it is.**
 
