@@ -6,6 +6,22 @@
 
 ---
 
+## Tashev Relay — продолжай разработку с того же места
+
+**Open-source continuity layer для AI-разработки.** Relay сохраняет текущую задачу, Git-состояние, следующий шаг и контекст работы, чтобы переключиться между Claude Code, OpenAI Codex, Cursor, Gemini CLI, другим терминалом или компьютером и продолжить без повторного объяснения проекта.
+
+```bash
+relay save --task "Fix auth" --next "Run integration tests" --agent claude
+relay handoff codex --stdout
+relay resume
+```
+
+[**GitHub →**](https://github.com/tashev11/tashev-relay) &nbsp;·&nbsp; [**v0.1.0 →**](https://github.com/tashev11/tashev-relay/releases/tag/v0.1.0) &nbsp;·&nbsp; `Node.js` `Git` `AI agents` `MIT` `zero dependencies`
+
+> **Git remembers your code. Relay remembers your work.**
+
+---
+
 ## Swapl — работа за свайп
 
 **Платформа поиска работы и сотрудников через взаимный интерес.** Соискатели свайпают вакансии, работодатели — кандидатов; при взаимном интересе создаётся матч и открывается прямой чат. Есть профили, вакансии, отклики, матчи, сообщения, уведомления, кабинеты работодателя и соискателя.
